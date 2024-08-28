@@ -1,66 +1,11 @@
-# Marcos Javier
-
-# Riganti
-
+# Marcos Javier Riganti
 ## Sr. Front End Developer / Full Stack
-
-## Personal Details
-
-### Location
-
-```
-Barcelona, Spain
-```
-### Date of Birth
-
-#### 1987-10-10T23:00:00.000Z
-
-### Marital status
-
-```
-Single
-```
-### Citizenships
-
-```
-Argentinean, Italian
-```
-### Spoken Languages
-
-```
-Spanish, English and Portuguese
-```
-## Contact Details
-
-### Phone
-
-#### +34 622 098 287
-
-### Email
-
-```
-marcos@riganti.ar
-```
 ### LinkedIn
-
-```
 https://www.linkedin.com/in/marcosriganti/
-```
 ### Calendly
-
-```
 https://calendly.com/marcos-riganti/15min
-```
-### GitHub
-
-```
-https://github.com/marcosriganti
-```
-## < WorkExperience/ >
-
+## WorkExperience
 #### 2021
-
-```
 Sr Front End Developer@X-Team
 Engaged as a Web Developer with a primary focus on Front-End technologies, specializing in
 React.js and React Native. Proicient in crafting and reining components within React,
@@ -68,68 +13,39 @@ leveraging the versatility of Contentful headless CMS. Implemented Optimizely fo
 testing and seamlessly integrated components from Contentful. Extensively utilized frameworks
 like Gatsby and various React libraries to elevate user experiences. Contributed to the success of
 projects for esteemed clients, including BeachBody, CellarTracker App, and the Surfair website.
-```
 #### 2018
-
-```
 Sr React Native Developer@DotSur
 Working as a React Native Developer I've worked mostly for the main client ContactMappings
 with a brand new database change from Realm to Firestore and all new UX for the mobile app.
-```
-```
 2013
-```
-```
 Sr Front End Developer@ScalablePath
-```
-```
 I've had an incredible eight-year journey with ScalablePath, followed by a rewarding stint with
 StartCHURCH, and most recently, an engaging experience with Vacatia. Throughout these roles,
 I've been a versatile developer, proicient in both front-end and back-end technologies. My
 expertise spans Zend, Symfony 1.4, 2.x, and 3.x, along with the use of Twig. At various stages of
 development, I've seamlessly incorporated tools like Gulp and Webpack Additionally, my skill set
 extends to leveraging ReactJS and ensuring data integrity with Sanity and Next JS.
-```
 #### 2010
-
-```
 Presentation Layer Developer@Globant
 During my tenure at Globant, I was exclusively assigned to the Razorish ODC, where my role
 focused on the development and leadership of cutting-edge Front-End Technologies. I held a
 pivotal position in presentation development, taking charge of projects for esteemed clients
 such as TERRA, Microsoft, ISIS, Experian, and Intel.
-```
-```
 In addition to my development responsibilities, I played a key role in training new team
 members, facilitating their journey to attaining a high level of expertise. This involved sharing
 knowledge and best practices to ensure a consistently high standard of work.
-```
-```
 My commitment extended beyond the conines of the ofice, as I had the opportunity to travel to
 the United States and Brazil for on-site collaboration, further enriching my experience and
 contributing to the success of our global projects.
-```
-```
 2008
-```
-```
 Tech Head of Web Development@ElipseAgency
-```
-```
 As the Technical Head of this company, I've been at the forefront of designing and developing
 high-trafic websites. My expertise extends to implementing loading optimizations and
 overseeing the complete spectrum of presentation, data schema, and content management.
 Beyond technical aspects, I am actively engaged in client interactions, managing relationships,
 and coordinating with small groups of developers and creatives to ensure seamless
 collaboration and project success.
-```
-8/12/24, 4:59 PM Marcos Javier Riganti - CV Resume
-
-https://www.riganti.ar/cv 1 / 3
-
-
-## < ClientsProjects/ >
-
+## Clients and Projects
 ```
 Intel@Globant
 ```
@@ -205,31 +121,22 @@ community-focused website, building it from
 the ground up....
 PHP jQuery Javascript CSS MySQL
 
-## < SoftSkills/ >
-
-```
-Aim to Excellence
+## Soft Skills
+### Aim to Excellence
 Consistently striving for the highest quality in one's work. It involves setting high standards,
 paying attention to details, and continuously seeking improvement.
-Leadership
-```
-```
+### Leadership
 Excited to motivate, and inspire others to achieve a shared vision or goal. It involves taking
 initiative, making decisions, and being responsible for the direction and success of a team or
 project.
-Planning & Organization
+### Planning & Organization
 As part of my daily work I'm organizing tasks, setting goals, and creating a roadmap for
 achieving objectives. It includes breaking down complex tasks into manageable steps, allocating
 resources eectively, and considering potential challenges.
-Team Player
+### Team Player
 Always available to work collaboratively and eectively with others towards a common goal. It
 includes being supportive, cooperative, and contributing positively to group dynamics.
-Flexibility
+### Flexibility
 Looking to adapt and adjust to changing circumstances, priorities, or roles. Usually can navigate
 uncertainties, switch tasks seamlessly, and remain open to new ideas and approaches.
-```
-8/12/24, 4:59 PM Marcos Javier Riganti - CV Resume
-
-https://www.riganti.ar/cv 2 / 3
-
 
